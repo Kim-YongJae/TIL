@@ -65,7 +65,7 @@ git pull origin main
 
 <br>
 
-# :file_folder:-branch
+# :file_folder: branch
 ```
 branch는 코드 개발과 관리의 유연성과 안정성을 높여주는 중요한 기능이다. 코드를 분리하고 독립적으로 작업하여 효율적이고 조직적인 개발을 가능하게 해준다.
 ```
